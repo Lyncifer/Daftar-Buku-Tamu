@@ -1,6 +1,6 @@
 # Daftar-Buku-Tamu
 
-Buat Database atas nama tamu dan jalankan command ini
+Buat Database atas nama 'tamu' dan jalankan command ini
 ```
 CREATE TABLE `bukutamu`(
 `id` int(11) NOT NULL
